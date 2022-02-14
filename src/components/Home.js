@@ -199,7 +199,7 @@ function Home() {
         
     </div>
     <div className="copyright" >
-    <i className="single_line"> _________________________________________</i> 
+    <i className="underline"> </i> 
         <p>Copytight 2022 - I Muhammad Tanimnu</p>
         </div>
 
