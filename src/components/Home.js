@@ -199,7 +199,7 @@ function Home() {
         
     </div>
     <div className="copyright" >
-    <i className="underline"> </i> 
+        <hr role="separator" aria-orientation="horizontal" class="mb-8 v-divider theme--light"></hr>
         <p>Copytight 2022 - I Muhammad Tanimnu</p>
         </div>
 
